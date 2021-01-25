@@ -15,6 +15,10 @@
 				"IOS",
 				"TVOS"
 			]
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
