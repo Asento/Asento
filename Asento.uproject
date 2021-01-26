@@ -3,6 +3,16 @@
 	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Asento",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "IOSDeviceProfileSelector",
@@ -18,6 +28,10 @@
 		},
 		{
 			"Name": "FMODStudio",
+			"Enabled": true
+		},
+		{
+			"Name": "OculusAudio",
 			"Enabled": true
 		}
 	],

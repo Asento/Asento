@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{08b15ba3-c78d-41e9-a7cd-76b970d349ee}">
+		<property name="assetPath">
+			<value>windy.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>156.09308390022676</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{26fc374b-0632-4a9e-86c8-a8c72cae8f14}</destination>
+		</relationship>
+	</object>
+</objects>
